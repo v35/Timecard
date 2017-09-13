@@ -1,0 +1,4 @@
+This program, autotimecard, is meant to automate the task of filling in the student time card for on-campus jobs.
+It requires Python 2.7, the Selenium library for Python, and Chrome. In addition to that, you should make sure the settings on your
+Chrome browser are set to clear cookies after the window closes. There are more instructions in the actual Python file, where you
+need to input some data for username, password, URL, etc.
