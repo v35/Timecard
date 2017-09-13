@@ -34,10 +34,10 @@ import datetime
 ''''''''''''''''''
 ''''''''''''''''''
 ''''''''''''''''''
-CLASSURL = "https://resources.calvin.edu/selfservice/WebAdvisor?TOKENIDX=143699954&SS=LGRQ&APP=HR&URL=HTTPS%3A%2F%2Fresources.calvin.edu%2Fselfservice%2FWebAdvisor%3FTYPE%3DP%26PID%3DHR-WBHRS006%26CONSTITUENCY%3DWBST&ERROR=Log+in+with+your+Calvin+username+and+password+before+accessing+this+resource+---WBHRS006---.&CONSTITUENCY=WBST"
-CHROMEPROFILE = "user-data-dir=C:\Users\Elliott\AppData\Local\Google\Chrome\User Data"
-USERNAME = "ejh59"
-PASSWORD = "JiminyLampsIvedone1"
+CLASSURL = "[your-url-here]"
+CHROMEPROFILE = "user-data-dir=C:\[path]"
+USERNAME = "[your-username]"
+PASSWORD = "[your-password]"
 #Leave this stuff alone. It just gives you the input message in command prompt where
 #you can put in your data.
 DAYWORKED1 = input("WITH QUOTES! Day Worked: ")
