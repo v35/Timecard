@@ -1,6 +1,6 @@
 NOTE: This is still very much a work in progress. You cannot enter anything into the second week of the timecard in the
 current iteration. I'll eventually add that and the ability to use the second row of a given day.
-Autotimecard, is meant to automate the task of filling in the student time card for on-campus jobs.
+Autotimecard is meant to automate the task of filling in the student time card for on-campus jobs.
 It requires Python 2.7, the Selenium library for Python, and Chrome. In addition to that, you should make sure the settings on your
 Chrome browser are set to clear cookies after the window closes. There are more instructions in the actual Python file, where you
 need to input some data for username, password, URL, etc.
